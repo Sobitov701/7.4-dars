@@ -45,7 +45,7 @@ function App() {
       <AppBar position="static" sx={{ backgroundColor: "black " }}>
         <Toolbar>
           <Typography variant="h6" sx={{ flexGrow: 1 }}>
-            Uzum Inspired Shop
+            Chopilgan Uzum
           </Typography>
         </Toolbar>
       </AppBar>
